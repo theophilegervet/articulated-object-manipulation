@@ -12,3 +12,8 @@ conda install pytorch==1.13.1 torchvision==0.14.1 torchaudio==0.13.1 pytorch-cud
 ```
 python -m mani_skill2.utils.download_asset all
 ```
+
+## Relevant environments
+[OpenCabinetDoor-v1](https://haosulab.github.io/ManiSkill2/concepts/environments.html#opencabinetdoor-v1): 42 training cabinets, 10 test cabinets
+[OpenCabinetDrawer-v1](https://haosulab.github.io/ManiSkill2/concepts/environments.html#opencabinetdrawer-v1): 25 training cabinets, 10 test cabinets
+[TurnFaucet-v0](https://haosulab.github.io/ManiSkill2/concepts/environments.html#turnfaucet-v0): 60 training faucets, 18 test faucets
